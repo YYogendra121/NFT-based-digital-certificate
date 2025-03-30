@@ -1,7 +1,7 @@
 # NFT-based-digital-certificate
 An NFT-based digital certificate is a modern approach to verifying and representing credentials or achievements in a secure, verifiable, and immutable manner. By using blockchain technology and NFTs (Non-Fungible Tokens), these certificates offer several advantages over traditional paper-based certificates. Here's a deeper look at the concept and how it works:
 
-#Benefits of NFT-based Digital Certificates:
+𝐁𝐞𝐧𝐞𝐟𝐢𝐭𝐬 𝐨𝐟 𝐍𝐅𝐓-𝐛𝐚𝐬𝐞𝐝 𝐃𝐢𝐠𝐢𝐭𝐚𝐥 𝐂𝐞𝐫𝐭𝐢𝐟𝐢𝐜𝐚𝐭𝐞𝐬:
 Authenticity: NFTs are unique and tamper-proof, meaning that once a certificate is issued, it cannot be altered or forged. This reduces the chances of fraud.
 Security: Certificates stored on the blockchain are secure, and the process of minting the certificate can be controlled by the issuer, preventing unauthorized access.
 Ownership & Transferability: The recipient of an NFT-based certificate owns the token, and it can be easily transferred or verified. This is particularly useful for showcasing credentials in digital resumes or online portfolios.
